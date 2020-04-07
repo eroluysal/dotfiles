@@ -1,0 +1,1 @@
+/Users/eroluysal/.zshrc
