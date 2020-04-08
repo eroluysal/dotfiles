@@ -4,3 +4,4 @@
 .zshrc: '~/.zshrc'
 .gitignore-global: '~/.gitignore-global'
 .rvmrc: '~/.rvmrc'
+.Brewfile: '~/.Brewfile'
