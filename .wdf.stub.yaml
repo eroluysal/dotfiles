@@ -1,4 +1,6 @@
+.ansible-galaxy: '~/.ansible_galaxy'
 .editorconfig: '~/.editorconfig'
 .vimrc: '~/.vimrc'
 .zshrc: '~/.zshrc'
-'.gitignore-global': '~/.gitignore-global'
+.gitignore-global: '~/.gitignore-global'
+.rvmrc: '~/.rvmrc'
