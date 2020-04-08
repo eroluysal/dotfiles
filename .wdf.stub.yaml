@@ -1,0 +1,4 @@
+.editorconfig: '~/.editorconfig'
+.vimrc: '~/.vimrc'
+.zshrc: '~/.zshrc'
+'.gitignore-global': '~/.gitignore-global'

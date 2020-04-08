@@ -1,0 +1,8 @@
+# Directories
+/.idea
+
+# Files
+.DS_Store
+
+# Extensions
+.py[cod]
