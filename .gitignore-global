@@ -1,5 +1,8 @@
 # Directories
 /.idea
+/build
+/node_modules
+/vendor
 
 # Files
 .DS_Store
