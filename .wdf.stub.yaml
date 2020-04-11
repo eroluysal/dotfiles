@@ -1,4 +1,5 @@
 .Brewfile: '~/.Brewfile'
+.aliases: '~/.aliases'
 .ansible-galaxy: '~/.ansible_galaxy'
 .editorconfig: '~/.editorconfig'
 .gitignore-global: '~/.gitignore-global'
