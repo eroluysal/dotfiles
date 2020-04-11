@@ -1,2 +1,5 @@
 # git aliases
 alias gcss='gcs -s'
+
+# creates new private repository via hub
+alias hcpr='hub create -p'
