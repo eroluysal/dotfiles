@@ -6,3 +6,4 @@ alias hcpr='hub create -p'
 
 # symfony
 alias c='$(which symfony) console'
+alias cm='c doctrine:migrations:migrate'
