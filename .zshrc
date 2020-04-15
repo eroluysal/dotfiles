@@ -104,4 +104,4 @@ export LANG=en_US.UTF-8
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Custom scripts
-[ -f .aliases ] && source .aliases
+source ~/.aliases
